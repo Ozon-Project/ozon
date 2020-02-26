@@ -11,3 +11,5 @@ The Ozon Projects aims to eliminate the need to create multiple projects over di
 ## Meta
 
 ## Contribution
+
+See our [contribution file](https://github.com/Ozon-Project/community/blob/master/contribution.md)!
